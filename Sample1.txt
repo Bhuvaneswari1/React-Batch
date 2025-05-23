@@ -1,2 +1,5 @@
 Difference Between git init and git clone
-The git init and git clone are usually confused with each other. Here it’s important to note that git clone is dependant on the git init and creates a copy of a repository that already exists. In other words, for generating a git clone, we need a repository created with git init. Only after that, we run a git clone to copy the data that is included in our repository mentioned above.
+The git init and git clone are usually confused with each other. Here it’s important to note that git clone is dependant on the git init and creates a copy of a repository that 
+already exists. In other words, for generating a git clone, we need a repository created with git init. Only after that, we run a git clone to copy the data that is included in our repository mentioned above.
+
+This is Bhuvaneswari - React Trainer
